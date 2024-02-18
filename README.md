@@ -1,4 +1,4 @@
-# Torch-LLaMAa-Inference
+# Torch-LLaMA-Inference
 Understanding of Meta's open source LLM LLaMA.
 
 ## Description:
